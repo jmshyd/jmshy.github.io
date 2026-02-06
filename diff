@@ -1,1 +1,10 @@
-index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Personal Website</title>
+</head>
+<body>
+  <h1>Hello, I’m Jmshy 👋</h1>
+  <p>This is my personal website. I’ll improve it every day.</p>
+</body>
+</html>
